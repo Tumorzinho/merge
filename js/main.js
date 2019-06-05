@@ -1,3 +1,4 @@
 function cumprimento() {
-    alert("Koé chefia, tá passando a mão em mim por quê?");
+    var nome = prompt("Manda teu nome pro pai aqui:");
+    alert("Koé " + nome + ", tá passando a mão em mim por quê?");
 }
